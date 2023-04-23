@@ -1,0 +1,182 @@
+[
+  {
+    "module": "Dashboard",
+    "name": "Dashboard",
+    "code": "dashboard - view dashboard page",
+    "description": "View dashboard page"
+  },
+  {
+    "module": "Dashboard",
+    "name": "Dashboard",
+    "code": "dashboard - view feedback table",
+    "description": "View feedback table"
+  },
+  {
+    "module": "Dashboard",
+    "name": "Dashboard",
+    "code": "dashboard - case tagging",
+    "description": "Tag a case as simple or complex"
+  },
+  {
+    "module": "Dashboard",
+    "name": "Dashboard",
+    "code": "dashboard - archive feedback",
+    "description": "Archive feedback"
+  },
+  {
+    "module": "Feedback",
+    "name": "Overview",
+    "code": "feedback (overview) - view",
+    "description": "View feedback overview page"
+  },
+  {
+    "module": "Feedback",
+    "name": "Overview",
+    "code": "feedback (overview) - case tagging",
+    "description": "Tag a case as simple or complex"
+  },
+  {
+    "module": "Feedback",
+    "name": "Overview",
+    "code": "feedback (overview) - archive feedback",
+    "description": "Archive feedback"
+  },
+  {
+    "module": "Feedback",
+    "name": "Overview",
+    "code": "feedback (overview) - edit",
+    "description": "Add or Edit feedback"
+  },
+  {
+    "module": "Feedback",
+    "name": "Archive",
+    "code": "feedback (archive) - view",
+    "description": "View archived feedback page"
+  },
+  {
+    "module": "Feedback",
+    "name": "Inbox",
+    "code": "feedback (inbox) - view",
+    "description": "View Inbox page"
+  },
+  {
+    "module": "Feedback",
+    "name": "Inbox",
+    "code": "feedback (inbox) - edit",
+    "description": "Send or Reply emails"
+  },
+  {
+    "module": "Forms",
+    "name": "Forms",
+    "code": "forms - view",
+    "description": "View forms page"
+  },
+  {
+    "module": "Forms",
+    "name": "Forms",
+    "code": "forms - edit",
+    "description": "Add or Edit forms"
+  },
+  {
+    "module": "Forms",
+    "name": "Forms",
+    "code": "forms - delete",
+    "description": "Delete forms"
+  },
+  {
+    "module": "Reports",
+    "name": "Overview",
+    "code": "reports (overview)",
+    "description": "View overview page"
+  },
+  {
+    "module": "Reports",
+    "name": "Turn around Time (TAT)",
+    "code": "reports (turn around time)",
+    "description": "View Turn around Time (TAT) report page"
+  },
+  {
+    "module": "Reports",
+    "name": "Feedback Summary",
+    "code": "reports (feedback summary)",
+    "description": "View Feedback Summary report page"
+  },
+  {
+    "module": "Reports",
+    "name": "Feedback Log",
+    "code": "reports (feedback log)",
+    "description": "View Feedback Log page"
+  },
+  {
+    "module": "Reports",
+    "name": "Data Usage",
+    "code": "reports (data usage)",
+    "description": "View Data Usage page"
+  },
+  {
+    "module": "Setup",
+    "name": "Categories",
+    "code": "setup (categories) - view",
+    "description": "View categories page"
+  },
+  {
+    "module": "Setup",
+    "name": "Categories",
+    "code": "setup (categories) - edit",
+    "description": "Add or Edit categories"
+  },
+  {
+    "module": "Setup",
+    "name": "Categories",
+    "code": "setup (categories) - delete",
+    "description": "Delete categories"
+  },
+  {
+    "module": "Setup",
+    "name": "Location Data",
+    "code": "setup (location data) - view",
+    "description": "View locations, areas and departments page"
+  },
+  {
+    "module": "Setup",
+    "name": "Location data",
+    "code": "setup (location data) - edit",
+    "description": "Add or Edit locations, areas and departments"
+  },
+  {
+    "module": "Setup",
+    "name": "Location data",
+    "code": "setup (location data) - delete",
+    "description": "Delete locations, areas and departments"
+  },
+  {
+    "module": "Setup",
+    "name": "Roles and modules",
+    "code": "setup (roles and modules) - view",
+    "description": "View roles and modules page"
+  },
+  {
+    "module": "Setup",
+    "name": "Roles and modules",
+    "code": "setup (roles and modules) - edit",
+    "description": "Assign Permissions"
+  },
+  {
+    "module": "Setup",
+    "name": "Users",
+    "code": "setup (users) - view",
+    "description": "View users page"
+  },
+  {
+    "module": "Setup",
+    "name": "Users",
+    "code": "setup (users) - edit",
+    "description": "Add or Edit users"
+  },
+  {
+    "module": "Setup",
+    "name": "Users",
+    "code": "setup (users) - delete",
+    "description": "Delete users"
+  }
+]

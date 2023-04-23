@@ -1,0 +1,8 @@
+const ASYNC_STORAGE_KEYS = {
+  USER: 'A',
+  IS_REFRESH: 'B',
+  RESET_TIME: 'RESET_TIME',
+  LANGUAGE: 'LANGUAGE',
+}
+
+export { ASYNC_STORAGE_KEYS }
